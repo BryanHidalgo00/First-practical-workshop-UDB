@@ -1,6 +1,8 @@
 let crudForm = document.querySelector(".crud");
 let btnToggleForm = document.querySelector(".floatIcon")
-
+let worldEvents = {
+    
+};
 btnToggleForm.addEventListener("click", () => {
     if (crudForm.style.display === "flex") {
         crudForm.style.display = "none";
