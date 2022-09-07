@@ -1,7 +1,7 @@
 //div effect display 
 $(document).ready(function () {
     setTimeout(function () {
-        $(".body").fadeOut(80);
+        $(".body").fadeOut(0);
     }, 80);
 
     setTimeout(function () {
@@ -11,7 +11,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
     setTimeout(function () {
-        $(".crud").fadeOut(80);
+        $(".crud").fadeOut(0);
     }, 80);
 
     setTimeout(function () {
