@@ -72,7 +72,7 @@
     position: absolute;
     background: #f7f7f7;
     height: 40px;
-    
+
     width: 40px;
     text-align: center;
     line-height: 40px;
@@ -137,7 +137,8 @@
     transition: all 0.3s ease;
 }
 
-.row section .bottom .btn-a2:hover, .btn-a1:hover {
+.row section .bottom .btn-a2:hover,
+.btn-a1:hover {
     transform: scale(0.97);
 }
 
@@ -174,7 +175,9 @@
     .wrapper .row {
         margin: 10px 0;
     }
-    .row section .bottom .btn-a1, .btn-a2{
- 
+
+    form.form_contact {
+        width: 90%;
     }
+
 }

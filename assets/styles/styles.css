@@ -46,13 +46,10 @@
     font-weight: calc(100%);
 }
 
-/* .nav__ul{
-    position: relative;
-    right: 430px;
-} */
-
 /*end header*/
+
 /*crud*/
+
 
 .crud {
     width: 100%;
@@ -79,6 +76,7 @@
 .title-1 {
     font-size: 35px;
     margin-bottom: 20px;
+    font-weight: 600;
 }
 
 .info_items p {
