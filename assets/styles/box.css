@@ -15,7 +15,7 @@
     margin: 50px auto;
     padding: 0 20px;
     position: relative;
-
+    animation: fadein 1.5s; 
 }
 
 .wrapper .center-line {
