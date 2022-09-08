@@ -21,13 +21,13 @@ document.getElementById("btnSend").addEventListener("click", function (event) {
     event.preventDefault()
 });
 
-//div effect display 
-$(document).ready(function () {
-    setTimeout(function () {
-        $(".body").fadeOut(0);
-    }, 80);
+// //div effect display 
+// $(document).ready(function () {
+//     setTimeout(function () {
+//         $(".body").fadeOut(0);
+//     }, 80);
 
-    setTimeout(function () {
-        $(".body").fadeIn(1500);
-    }, 500);
-});
+//     setTimeout(function () {
+//         $(".body").fadeIn(1500);
+//     }, 500);
+// });
